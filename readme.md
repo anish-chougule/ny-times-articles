@@ -31,7 +31,7 @@ This project is designed to scrape articles from the New York Times website usin
 ## Usage
 1. Run the main script to start scraping:
     ```bash
-    python scrape.py
+    python 01_nyt-articles.py
     ```
 2. The scraped data will be saved in the specified format in the `output` directory.
 
